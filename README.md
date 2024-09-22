@@ -1,16 +1,29 @@
 ### hey All 👋
+
 Assalamu Alaikum Everyone.
+
 my Name is Mezba Faisal.
+
 Im a 
+
 Software Engineer,
+
 ML(machine Learning) Engineer,
-Teacher, Professor
-Cricketer,
+
+Teacher, Professor,
+
+International Cricketer,
+
 CA (Chartered Accountant),
+
 CMA (Certified Management Accountant),
-Magistrate
+
+Magistrate,
+
 BusinessMan
+
 Youtuber
+
 Hacker (Ethical)
 
 
