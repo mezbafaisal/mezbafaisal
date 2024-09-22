@@ -1,28 +1,20 @@
 ### hey All 👋 
-**Assalamu Alaikum Everyone.**
-my name is **Mezba Faisal.**
+# Hey All 👋  
+**Assalamu Alaikum, Everyone!**  
+My name is **Mezba Faisal**.  
 
-Im a 
+I am a:  
+- **Software Engineer**  
+- **Machine Learning Engineer**  
+- **Teacher & Professor**  
+- **International Cricketer**  
+- **Chartered Accountant (CA)**  
+- **Certified Management Accountant (CMA)**  
+- **Magistrate**  
+- **Businessman**  
+- **YouTuber**  
+- **Ethical Hacker**
 
-Software Engineer,
-
-ML(machine Learning) Engineer,
-
-Teacher, Professor.
-
-International Cricketer,
-
-CA (Chartered Accountant),
-
-CMA (Certified Management Accountant),
-
-Magistrate,
-
-BusinessMan
-
-Youtuber
-
-Hacker (Ethical)
 
 
 <!--
