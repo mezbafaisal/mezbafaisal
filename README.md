@@ -1,4 +1,3 @@
-### hey All 👋 
 # Hey All 👋  
 **Assalamu Alaikum, Everyone!**  
 My name is **Mezba Faisal**.  
