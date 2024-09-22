@@ -8,7 +8,7 @@ Software Engineer,
 
 ML(machine Learning) Engineer,
 
-Teacher, Professor,
+Teacher, Professor.
 
 International Cricketer,
 
