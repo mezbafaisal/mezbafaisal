@@ -1,7 +1,7 @@
 ### hey All 👋
-Assalamu Alaikum Everyone.
+### Assalamu Alaikum Everyone.
 
-my Name is Mezba Faisal.
+### my name is Mezba Faisal.
 
 Im a 
 
