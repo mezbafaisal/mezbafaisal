@@ -1,4 +1,4 @@
-# Hello, I'm Mezba Faisal 👋  
+# Hey, I'm Mezba Faisal 👋  
 **Assalamu Alaikum!**
 
 I am a multi-faceted professional driven by a passion for learning and excelling across various fields. My expertise spans:
