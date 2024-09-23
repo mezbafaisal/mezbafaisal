@@ -1,5 +1,5 @@
 # Hey, Assalamu Alaikum Everyone 👋  
-My name is **Faisal**.
+# My name is **Faisal**.
 
 I am a multi-faceted professional driven by a passion for learning and excelling across various fields. My expertise spans:
 
@@ -23,6 +23,4 @@ I am a multi-faceted professional driven by a passion for learning and excelling
 
 ### 📈 **Business**  
 - Businessman  
-- YouTuber  
-
-My passion for constant growth and challenging myself in diverse fields keeps me motivated to push boundaries. Let’s connect and collaborate!
+- YouT
