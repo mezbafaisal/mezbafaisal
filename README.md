@@ -1,32 +1,26 @@
-# Hey All 👋  
-**Assalamu Alaikum, Everyone!**  
-My name is **Mezba Faisal**.  
+# Hello, I'm Mezba Faisal 👋  
+**Assalamu Alaikum!**
 
-I am a:  
-- **Software Engineer**  
-- **Machine Learning Engineer**  
-- **Teacher & Professor**  
-- **International Cricketer**  
-- **Chartered Accountant (CA)**  
-- **Certified Management Accountant (CMA)**  
-- **Magistrate**  
-- **Businessman**  
-- **YouTuber**  
-- **Ethical Hacker**
+I am a multi-faceted professional driven by a passion for learning and excelling across various fields. My expertise spans:
 
+### 🔧 **Tech & Engineering**  
+- Software Engineer  
+- Machine Learning Engineer  
+- Ethical Hacker  
 
+### 🎓 **Academia**  
+- Teacher & Professor  
 
-<!--
-**mezbafaisal/mezbafaisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏏 **Sports**  
+- International Cricketer  
 
-Here are some ideas to get you started:
+### 💼 **Finance & Law**  
+- Chartered Accountant (CA)  
+- Certified Management Accountant (CMA)  
+- Magistrate  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 **Business**  
+- Businessman  
+- YouTuber  
+
+My passion for constant growth and challenging myself in diverse fields keeps me motivated to push boundaries. Let’s connect and collaborate!
