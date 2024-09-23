@@ -25,4 +25,4 @@ I am a multi-faceted professional driven by a passion for learning and excelling
 - Businessman  
 - YouTuber  
 
-My passion for constant growth and challenging myself in diverse fields keeps me motivated to push boundaries. Let’s connect and collaborate!
+My passion for constant growth and challenging myself in diverse fields keeps me motivated to push boundaries.
