@@ -14,9 +14,11 @@ I am a multi-faceted professional driven by a passion for learning and excelling
 ### 🏏 **Sports**  
 - International Cricketer  
 
-### 💼 **Finance & Law**  
+### 💼 **Finance & Accounting**  
 - Chartered Accountant (CA)  
 - Certified Management Accountant (CMA)  
+
+### ⚖️ **Law**  
 - Magistrate  
 
 ### 📈 **Business**  
