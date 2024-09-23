@@ -1,7 +1,6 @@
-# Hey, Assalamu Alaikum Everyone 👋  
+# Hey, Assalamu Alaikum Everyone 👋   
 
-My name is  
-# **Faisal**.
+My name is <span style="font-size:2em; font-weight:bold;">Faisal</span>.
 
 
 I am a multi-faceted professional driven by a passion for learning and excelling across various fields. My expertise spans:
