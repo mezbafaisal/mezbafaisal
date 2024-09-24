@@ -1,31 +1,29 @@
-Hey, Assalamu Alaikum Everyone 👋  
-My name is Mezba Faisal.
+# Hey, Assalamu Alaikum Everyone 👋  
+
+My name is **Mezba Faisal**.
 
 I am a multi-faceted professional driven by a passion for learning and excelling across various fields. My expertise spans:
 
-🔧 **Tech & Engineering**  
+### 🔧 **Tech & Engineering**  
 - Software Engineer  
 - Machine Learning Engineer  
 - Ethical Hacker  
 
-🎓 **Academia**  
+### 🎓 **Academia**  
 - Teacher & Professor  
 
-🏏 **Sports**  
+### 🏏 **Sports**  
 - International Cricketer  
 
-💼 **Finance & Accounting**  
+### 💼 **Finance & Accounting**  
 - Chartered Accountant (CA)  
 - Certified Management Accountant (CMA)  
 
-⚖️ **Law**  
+### ⚖️ **Law**  
 - Magistrate  
 
-📈 **Business**  
+### 📈 **Business**  
 - Businessman  
 - YouTuber  
 
-🚀 **LeetCode**  
-- Top 200 Globally on [LeetCode](https://leetcode.com/u/mezbafaisal/)
-
-My passion for constant growth and challenging myself in diverse fields keeps me motivated to push boundaries.
+My passion for constant growth and challenging myself in diverse fields keeps me motivated to push boundaries. Let’s connect and collaborate!
