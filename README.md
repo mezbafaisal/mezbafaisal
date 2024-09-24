@@ -30,6 +30,6 @@ I am a multi-faceted professional driven by a passion for learning and excelling
 - Ranked in the Top 200 Globally on [LeetCode](https://leetcode.com/u/mezbafaisal/)
 
 ### 📊 **Data Science & AI**  
-- Kaggle Competitor: [Kaggle](https://www.kaggle.com/mezbafaisal)
+- Grandmaster on [Kaggle](https://www.kaggle.com/mezbafaisal)
 
 My passion for constant growth and challenging myself in diverse fields keeps me motivated to push boundaries. Let’s connect and collaborate!
