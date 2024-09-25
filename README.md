@@ -13,7 +13,10 @@ I am a multi-faceted professional driven by a passion for learning and excelling
 - Teacher & Professor  
 
 ### 🏏 **Sports**  
-- International Cricketer  
+- International Cricketer
+- Olympic Shooter
+- Chess Grandmaster
+- Heavyweight Boxer  
 
 ### 💼 **Finance & Accounting**  
 - Chartered Accountant (CA)  
