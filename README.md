@@ -35,4 +35,4 @@ I am a multi-faceted professional driven by a passion for learning and excelling
 ### 📊 **Data Science & AI**  
 - Grandmaster on [Kaggle](https://www.kaggle.com/mezbafaisal)
 
-My passion for constant growth and challenging myself in diverse fields keeps me motivated to push boundaries. Let’s connect and collaborate!
+My passion for constant growth and challenging myself in diverse fields keeps me motivated to push boundaries.
