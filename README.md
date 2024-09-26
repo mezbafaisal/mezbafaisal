@@ -8,6 +8,8 @@ I am a multi-faceted professional driven by a passion for learning and excelling
 - Software Engineer  
 - Machine Learning Engineer  
 - Ethical Hacker  
+- Data Scientist  
+- Data Analyst    
 
 ### 🎓 **Academia**  
 - Teacher & Professor  
