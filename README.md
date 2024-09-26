@@ -48,13 +48,11 @@ I am a multi-faceted professional driven by a passion for learning and excelling
 ### 🎥 **YouTube**  
 - Check out my YouTube Channel: [Professor Faisal](https://youtube.com/@professorfaisal?si=wd5lpfKhK1iknOUU)  
 
-### 📜 **Professional Memberships**  
-![Professional Memberships Logo](#)  
+### 📜 **Professional Memberships**   
 - Member of [Institute of Chartered Accountants of Bangladesh (ICAB)](https://www.icab.org.bd/)  
 - Member of [Institute of Cost and Management Accountants of Bangladesh (ICMAB)](https://icmab.gov.bd/)  
 
 ### 🏅 **Membership**  
-![Membership Logo](#)  
 - Member of [IEEE](https://www.ieee.org/)  
 
 ### 🌐 **Connect with Me**  
