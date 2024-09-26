@@ -40,15 +40,15 @@ I am a multi-faceted professional driven by a passion for learning and excelling
 
 ### 📊 **Data Science & AI**  
 - Grandmaster on [Kaggle](https://www.kaggle.com/mezbafaisal)  
-- Explore datasets on [Google Dataset Search](https://datasetsearch.research.google.com/)  
-- UCI Machine Learning Repository: [Profile](https://archive.ics.uci.edu/profile)  
+- Google Datasets [Google Dataset Search](https://datasetsearch.research.google.com/)  
+- UCI Machine Learning Repository: [UCI Datasets](https://archive.ics.uci.edu/profile)  
 
 ### 📚 **Research**  
 - Researcher on [ResearchGate](https://www.researchgate.net/profile/Mezba-Faisal)  
 - Scholar on [Google Scholar](https://scholar.google.com/citations?user=IA-B5ncAAAAJ&hl=en)  
 
 ### 🎥 **YouTube**  
-- Check out my YouTube Channel: [Professor Faisal](https://youtube.com/@professorfaisal?si=wd5lpfKhK1iknOUU)  
+- [Professor Faisal](https://youtube.com/@professorfaisal?si=wd5lpfKhK1iknOUU)  
 
 ### 📜 **Professional Memberships**   
 - Member of [Institute of Chartered Accountants of Bangladesh (ICAB)](https://www.icab.org.bd/)  
