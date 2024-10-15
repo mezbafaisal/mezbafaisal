@@ -48,7 +48,7 @@ I am a multi-faceted professional driven by a passion for learning and excelling
 - Scholar on [Google Scholar](https://scholar.google.com/citations?user=IA-B5ncAAAAJ&hl=en)  
 
 ### 🎥 **YouTube**  
-- [Mezba Faisal](https://www.youtube.com/@Mezba.Faisal)  
+- [Professor Faisal](https://www.youtube.com/@ProfessorFaisal)  
 
 ### 📜 **Professional Memberships**   
 - Member of [Institute of Chartered Accountants of Bangladesh (ICAB)](https://www.icab.org.bd/)  
