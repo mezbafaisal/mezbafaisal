@@ -29,7 +29,6 @@ I am a multi-faceted professional driven by a passion for learning and excelling
 
 ### 📈 **Business**  
 - Businessman  
-- YouTuber  
 
 ### 🏆 **Competitive Programming**  
 - Ranked in the Top 200 Globally on [LeetCode](https://leetcode.com/u/mezbafaisal/)  
@@ -46,9 +45,6 @@ I am a multi-faceted professional driven by a passion for learning and excelling
 ### 📚 **Research**  
 - Researcher on [ResearchGate](https://www.researchgate.net/profile/Mezba-Faisal)  
 - Scholar on [Google Scholar](https://scholar.google.com/citations?user=IA-B5ncAAAAJ&hl=en)  
-
-### 🎥 **YouTube**  
-- [Professor Faisal](https://www.youtube.com/@ProfessorFaisal)  
 
 ### 📜 **Professional Memberships**   
 - Member of [Institute of Chartered Accountants of Bangladesh (ICAB)](https://www.icab.org.bd/)  
