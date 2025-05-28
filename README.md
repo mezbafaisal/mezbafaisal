@@ -25,7 +25,7 @@ I am a multi-faceted professional driven by a passion for learning and excelling
 - Certified Management Accountant (CMA)  
 
 ### ⚖️ **Law**  
-- Magistrate  
+- Executive Magistrate  
 
 ### 📈 **Business**  
 - Businessman  
