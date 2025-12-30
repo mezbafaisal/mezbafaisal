@@ -31,7 +31,7 @@ I am a multi-faceted professional driven by a passion for learning and excelling
 - Businessman  
 
 ### 🏆 **Competitive Programming**  
-- Ranked in the Top 200 Globally on [LeetCode](https://leetcode.com/u/mezbafaisal/)  
+- Ranked in the Top 30 Globally on [LeetCode](https://leetcode.com/u/mezbafaisal/)  
 - Active on [Codeforces](https://codeforces.com/profile/mezbafaisal)  
 - Competing at [CodeChef](https://www.codechef.com/users/mezbafaisal)  
 - Problem-solving on [HackerRank](https://www.hackerrank.com/profile/mezbafaisal)  
