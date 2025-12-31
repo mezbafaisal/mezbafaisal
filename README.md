@@ -8,7 +8,8 @@ I am a multi-faceted professional driven by a passion for learning and excelling
 - Software Engineer  
 - Machine Learning Engineer   
 - Data Scientist  
-- Data Analyst   
+- Data Analyst
+- Researcher 
 
 ### 🎓 **Academia**  
 - m
