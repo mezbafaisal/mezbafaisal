@@ -6,29 +6,46 @@ I am a multi-faceted professional driven by a passion for learning and excelling
 
 ### 🔧 **Tech & Engineering**  
 - Software Engineer  
-- Machine Learning Engineer  
-- Ethical Hacker  
+- Machine Learning Engineer   
 - Data Scientist  
-- Data Analyst    
+- Data Analyst   
 
 ### 🎓 **Academia**  
-- Teacher & Professor  
+- m
+- i
+- m
+- h
+- l
 
 ### 🏏 **Sports**  
 - International Cricketer  
 - Olympic Shooter  
 - Chess Grandmaster  
-- Heavyweight Boxer  
+- Heavyweight Boxer
+- MMA fighter  
 
 ### 💼 **Finance & Accounting**  
 - Chartered Accountant (CA)  
-- Certified Management Accountant (CMA)  
+- Certified Management Accountant (CMA)
+- a
+- c
+- f
+- e
+- w
+- d
+- f
+- v
+- f
+-  
 
 ### ⚖️ **Law**  
 - Executive Magistrate  
 
 ### 📈 **Business**  
-- Businessman  
+- Businessman
+- d
+- e
+- f
 
 ### 🏆 **Competitive Programming**  
 - Ranked in the Top 30 Globally on [LeetCode](https://leetcode.com/u/mezbafaisal/)  
@@ -44,16 +61,23 @@ I am a multi-faceted professional driven by a passion for learning and excelling
 
 ### 📚 **Research**  
 - Researcher on [ResearchGate](https://www.researchgate.net/profile/Mezba-Faisal)  
-- Scholar on [Google Scholar](https://scholar.google.com/citations?user=IA-B5ncAAAAJ&hl=en)  
+- Scholar on [Google Scholar](https://scholar.google.com/citations?user=IA-B5ncAAAAJ&hl=en)
+- x
+- d
+- g 
 
 ### 📜 **Professional Memberships**   
 - Member of [Institute of Chartered Accountants of Bangladesh (ICAB)](https://www.icab.org.bd/)  
-- Member of [Institute of Cost and Management Accountants of Bangladesh (ICMAB)](https://icmab.gov.bd/)  
+- Member of [Institute of Cost and Management Accountants of Bangladesh (ICMAB)](https://icmab.gov.bd/)
+- f
+- r
+- g
+- d
 
 ### 🏅 **Membership**  
 - Member of [IEEE](https://www.ieee.org/)  
 
 ### 🌐 **Connect with Me**  
-- [LinkedIn](https://www.linkedin.com/in/mezbafaisal/) – 10,000+ followers  
+- [LinkedIn](https://www.linkedin.com/in/mezbafaisal/) –   10
 
 My passion for constant growth and challenging myself in diverse fields keeps me motivated to push boundaries.
