@@ -43,10 +43,11 @@ My name is **Mezba Faisal**.
 ### 📜 **Professional Memberships**   
 - Member of [Institute of Chartered Accountants of Bangladesh (ICAB)](https://www.icab.org.bd/)  
 - Member of [Institute of Cost and Management Accountants of Bangladesh (ICMAB)](https://icmab.gov.bd/)
-- f
-- r
-- g
-- d
+- Member of ACCA
+- Member of Cisa
 
 ### 🏅 **Membership**  
 - Member of [IEEE](https://www.ieee.org/)  
+
+### ▶️ **Youtube Channel**  
+- Mezba Faisal (https://www.youtube.com/@mezbafaisal/)
