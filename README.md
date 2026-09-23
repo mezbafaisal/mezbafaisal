@@ -21,8 +21,8 @@ My name is **Mezba Faisal**.
 ### 📈 **Business**  
 - MezX
 - MagandG
-- Data Analytics Firm
-- Dairy Firm
+- Fireblaze
+- Milk Al-Anhar
 
 ### 🏆 **Competitive Programming**  
 - Ranked in the Top 50 Globally on [LeetCode](https://leetcode.com/u/mezbafaisal/)  
