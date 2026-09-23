@@ -15,7 +15,7 @@ My name is **Mezba Faisal**.
 - Chartered Accountant (CA)  
 - Certified Management Accountant (CMA)
 
-### ⚖️ **Law**  
+### ⚖️ **Law and Governance**  
 - Executive Magistrate  
 
 ### 📈 **Business**  
@@ -49,6 +49,3 @@ My name is **Mezba Faisal**.
 
 ### 🏅 **Membership**  
 - Member of [IEEE](https://www.ieee.org/)  
-
-### 🌐 **Connect with Me**  
-- [LinkedIn](https://www.linkedin.com/in/mezbafaisal/) –   10
