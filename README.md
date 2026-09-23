@@ -1,43 +1,19 @@
+# MIS Graduate | Software Engineer | Data Analyst | Researcher 
 # Hey, Assalamu Alaikum Everyone 👋  
 
 My name is **Mezba Faisal**.
 
-I am a multi-faceted professional driven by a passion for learning and excelling across various fields. My expertise spans:
+### 🎓 **Academia**  
+- MIS (Management Information Systems)
+- Researcher
 
 ### 🔧 **Tech & Engineering**  
 - Software Engineer  
-- Machine Learning Engineer   
-- Data Scientist  
 - Data Analyst
-- Researcher 
-
-### 🎓 **Academia**  
-- m
-- i
-- m
-- h
-- l
-
-### 🏏 **Sports**  
-- International Cricketer  
-- Olympic Shooter  
-- Chess Grandmaster  
-- Heavyweight Boxer
-- MMA fighter  
 
 ### 💼 **Finance & Accounting**  
 - Chartered Accountant (CA)  
 - Certified Management Accountant (CMA)
-- a
-- c
-- f
-- e
-- w
-- d
-- f
-- v
-- f
--  
 
 ### ⚖️ **Law**  
 - Executive Magistrate  
@@ -49,13 +25,13 @@ I am a multi-faceted professional driven by a passion for learning and excelling
 - f
 
 ### 🏆 **Competitive Programming**  
-- Ranked in the Top 30 Globally on [LeetCode](https://leetcode.com/u/mezbafaisal/)  
+- Ranked in the Top 50 Globally on [LeetCode](https://leetcode.com/u/mezbafaisal/)  
 - Active on [Codeforces](https://codeforces.com/profile/mezbafaisal)  
 - Competing at [CodeChef](https://www.codechef.com/users/mezbafaisal)  
 - Problem-solving on [HackerRank](https://www.hackerrank.com/profile/mezbafaisal)  
 - Participant in [ICPC](https://icpc.global/private/profile/1166496)  
 
-### 📊 **Data Science & AI**  
+### 📊 **Data**  
 - Grandmaster on [Kaggle](https://www.kaggle.com/mezbafaisal)  
 - Google Datasets [Google Dataset Search](https://datasetsearch.research.google.com/)  
 - UCI Machine Learning Repository: [UCI Datasets](https://archive.ics.uci.edu/profile)  
@@ -80,5 +56,3 @@ I am a multi-faceted professional driven by a passion for learning and excelling
 
 ### 🌐 **Connect with Me**  
 - [LinkedIn](https://www.linkedin.com/in/mezbafaisal/) –   10
-
-My passion for constant growth and challenging myself in diverse fields keeps me motivated to push boundaries.
