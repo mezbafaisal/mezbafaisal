@@ -50,4 +50,4 @@ My name is **Mezba Faisal**.
 - Member of [IEEE](https://www.ieee.org/)  
 
 ### ▶️ **Youtube Channel**  
-- Mezba Faisal (https://www.youtube.com/@mezbafaisal/)
+- [Mezba Faisal](https://www.youtube.com/@mezbafaisal/)
