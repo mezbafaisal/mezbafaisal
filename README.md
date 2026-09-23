@@ -19,10 +19,10 @@ My name is **Mezba Faisal**.
 - Executive Magistrate  
 
 ### 📈 **Business**  
-- Businessman
-- d
-- e
-- f
+- MezX
+- MagandG
+- Data Analytics Firm
+- Dairy Firm
 
 ### 🏆 **Competitive Programming**  
 - Ranked in the Top 50 Globally on [LeetCode](https://leetcode.com/u/mezbafaisal/)  
@@ -35,9 +35,10 @@ My name is **Mezba Faisal**.
 ### 📚 **Research**  
 - Researcher on [ResearchGate](https://www.researchgate.net/profile/Mezba-Faisal)  
 - Scholar on [Google Scholar](https://scholar.google.com/citations?user=IA-B5ncAAAAJ&hl=en)
-- x
-- d
-- g 
+- JSTOR
+- Semantic Scholar
+- BASE (Bielefeld Academic Search Engine)
+- CORE
 
 ### 📜 **Professional Memberships**   
 - Member of [Institute of Chartered Accountants of Bangladesh (ICAB)](https://www.icab.org.bd/)  
