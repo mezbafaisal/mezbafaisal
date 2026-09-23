@@ -1,5 +1,5 @@
 # MIS Graduate | Software Engineer | Data Analyst | Researcher 
-# Hey, Assalamu Alaikum Everyone 👋  
+# Assalamu Alaikum Everyone 👋  
 
 My name is **Mezba Faisal**.
 
@@ -26,10 +26,6 @@ My name is **Mezba Faisal**.
 
 ### 🏆 **Competitive Programming**  
 - Ranked in the Top 50 Globally on [LeetCode](https://leetcode.com/u/mezbafaisal/)  
-- Active on [Codeforces](https://codeforces.com/profile/mezbafaisal)  
-- Competing at [CodeChef](https://www.codechef.com/users/mezbafaisal)  
-- Problem-solving on [HackerRank](https://www.hackerrank.com/profile/mezbafaisal)  
-- Participant in [ICPC](https://icpc.global/private/profile/1166496)  
 
 ### 📊 **Data**  
 - Grandmaster on [Kaggle](https://www.kaggle.com/mezbafaisal)  
