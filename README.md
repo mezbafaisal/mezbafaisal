@@ -22,7 +22,9 @@ My name is **Mezba Faisal**.
 - MezX
 - MagandG
 - Fireblaze
+- Burn Fireblaze
 - Milk Al-Anhar
+- Super Thirsty
 
 ### 🏆 **Competitive Programming**  
 - Ranked in the Top 50 Globally on [LeetCode](https://leetcode.com/u/mezbafaisal/)  
