@@ -19,12 +19,12 @@ My name is **Mezba Faisal**.
 - Executive Magistrate  
 
 ### 📈 **Business**  
-- MezX
-- MagandG
-- Fireblaze
-- Burn Fireblaze
-- Milk Al-Anhar
-- Super Thirsty
+- M
+- M
+- F
+- B
+- M
+- S
 
 ### 🏆 **Competitive Programming**  
 - Ranked in the Top 50 Globally on [LeetCode](https://leetcode.com/u/mezbafaisal/)  
