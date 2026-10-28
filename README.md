@@ -4,8 +4,8 @@
 My name is **Mezba Faisal**.
 
 ### 🎓 **Academia**  
-- bachelor's in Management Information Systems
-- Researcher
+- Bachelor's in Management Information Systems
+- Academic researcher
 
 ### 🔧 **Tech & Engineering**  
 - Software Engineer  
