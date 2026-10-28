@@ -1,10 +1,10 @@
-# MIS Graduate | Software Engineer | Data Analyst | Researcher 
+# MIS Graduate | Software Engineer | Data Analyst | Researcher | CA
 # Assalamu Alaikum Everyone 👋  
 
 My name is **Mezba Faisal**.
 
 ### 🎓 **Academia**  
-- MIS (Management Information Systems)
+- bachelor's in MIS (Management Information Systems)
 - Researcher
 
 ### 🔧 **Tech & Engineering**  
