@@ -19,7 +19,7 @@ My name is **Mezba Faisal**.
 - Executive Magistrate  
 
 ### 📈 **Business**  
-- M
+- MEZX
 - M
 - F
 - B
