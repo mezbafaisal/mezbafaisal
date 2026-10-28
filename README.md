@@ -1,10 +1,10 @@
-# MIS | Software Engineer | CA
+# Bachelor's in MIS | Software Engineer | CA
 # Assalamu Alaikum Everyone 👋  
 
 My name is **Mezba Faisal**.
 
 ### 🎓 **Academia**  
-- bachelor's in MIS (Management Information Systems)
+- bachelor's in Management Information Systems
 - Researcher
 
 ### 🔧 **Tech & Engineering**  
